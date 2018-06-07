@@ -5,8 +5,7 @@
     "talk-plugin-profile-data",
     "talk-plugin-respect",
     "talk-plugin-offtopic",
-    "talk-plugin-rich-text",
-    "talk-plugin-slack-notifications"
+    "talk-plugin-rich-text"
   ],
   "client": [
     "talk-plugin-auth",
