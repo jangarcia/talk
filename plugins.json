@@ -4,8 +4,14 @@
     "talk-plugin-local-auth",
     "talk-plugin-profile-data",
     "talk-plugin-respect",
+    "talk-plugin-notifications",
+    "talk-plugin-notifications-category-featured",
+    "talk-plugin-notifications-category-reply",
+    "talk-plugin-notifications-digest-daily",
+    "talk-plugin-notifications-digest-hourly",
     "talk-plugin-offtopic",
-    "talk-plugin-rich-text"
+    "talk-plugin-rich-text",
+    "talk-plugin-slack-notifications"
   ],
   "client": [
     "talk-plugin-auth",
@@ -24,6 +30,11 @@
     "talk-plugin-sort-newest",
     "talk-plugin-sort-oldest",
     "talk-plugin-viewing-options",
+    "talk-plugin-notifications",
+    "talk-plugin-notifications-category-featured",
+    "talk-plugin-notifications-category-reply",
+    "talk-plugin-notifications-digest-daily",
+    "talk-plugin-notifications-digest-hourly",
     "talk-plugin-offtopic",
     "talk-plugin-remember-sort",
     "talk-plugin-rich-text"
